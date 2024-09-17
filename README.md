@@ -1,9 +1,6 @@
 # Back-End-Web-Development
 ## HTTP-5125
 
-![Logo](D:\Workshop-5114\back-end-web-development-http5125\C#.jpg)
-
-
 This is repo of course HTTP-5125 Back-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
 
