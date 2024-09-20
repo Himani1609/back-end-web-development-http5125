@@ -8,7 +8,7 @@ Here is the link to W3Schools where you can find learning material of C# :
 [C#_W3Schools](https://www.w3schools.com/cs/index.php)
 
 >[!Note]  
-You can learn C# by this resource : [C#_Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/)
+You can learn C# from this resource : [C#_Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 
 >Following is a code sample of C# assigning a value to the int variable and then printing it.
