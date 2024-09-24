@@ -1,7 +1,7 @@
 # Back-End-Web-Development
 ## HTTP-5125
 
-<img src="back-end-web-development-http5125\c#.png" alt="CSharp" width="50" height="50">
+<img src="./c#.png" alt="CSharp" width="50" height="50">
 
 
 This is repo of course HTTP-5125 Back-End Web Development. 
