@@ -1,8 +1,7 @@
 # Back-End-Web-Development
 ## HTTP-5125
 
-![Csharp](<img src="./c#.png" alt="CSharp" width="50" height="50">)
-
+![Csharp](./c#.png)
 
 This is repo of course HTTP-5125 Back-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
